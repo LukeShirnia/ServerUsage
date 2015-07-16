@@ -19,7 +19,7 @@ Load Average: Current 0.00
 Load Average: 15min Average 0.00
 
 
-###RAM usage###
+### RAM usage ###
 Free Ram: 2972.06MB
 Used RAM: 783.78MB
 
