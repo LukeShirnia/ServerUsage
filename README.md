@@ -39,7 +39,7 @@ Total RAM Usage for all python processes =  355.93 MB
 \###CPU usage###  
 Top Process:  ./Plex  
 CPU % for SINGLE Top Process =  4.1  
-number of processes this is running: [5  
+number of processes this is running: 5  
 Total CPU % for ./Plex =  4.1  
   
 \############################################
