@@ -8,7 +8,7 @@ To run the script:
 bash <(curl -s https://raw.githubusercontent.com/luke7858/ServerUsage/master/ServerStats.sh)
 
 
-\\
+\
 
 
 ####Example Output:####
