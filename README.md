@@ -11,7 +11,7 @@ bash <(curl -s https://raw.githubusercontent.com/luke7858/ServerUsage/master/Ser
 \
 
 
-####Example Output:####
+\####Example Output:####
 
 
 ############################################
