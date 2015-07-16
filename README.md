@@ -7,13 +7,13 @@ To run the script:
 
 bash <(curl -s https://raw.githubusercontent.com/luke7858/ServerUsage/master/ServerStats.sh)
 
-
-  
+<br />
+<br />
   
 
 ####Example Output:####
-
-
+<br />
+<br />
 \############################################
 
 Server Uptime: 93days 1:49:19  
